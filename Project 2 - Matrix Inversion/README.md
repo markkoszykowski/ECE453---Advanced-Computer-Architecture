@@ -24,12 +24,12 @@ Also, please ensure that the .txt file containing the system coefficients is in 
 
 The text file containing the system coefficients should me in the following format:
 
-a00 a01 a02 ... a0n+1\n
-a10 a11 a12 ... a1n+1\n
+a00 a01 a02 ... a0n+1
+a10 a11 a12 ... a1n+1
 .
 .
 .
-an0 an1 an2 ... an(n+1)\n
+an0 an1 an2 ... an(n+1)
 
 NOTE:
 
