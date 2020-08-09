@@ -8,7 +8,7 @@ project1.c will contain the C code that is used to solve the system of linear eq
 
 project2.cu will contain the CUDA C code that is used to solve the system of linear equations on the GPU.
 
-The two programs use the same algorithm and output the totaly execution time that was required to just solve the system.
+The two programs use the same algorithm and output the total execution time that was required to just solve the system.
 
 To compile project2.c, simply run "gcc -o project2 project2.c".
 
